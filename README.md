@@ -13,7 +13,7 @@ This Health Recommender System is built using filtering techniques and nearest n
 - Python
 - Machine Learning libraries (e.g., scikit-learn)
 - Streamlit (for the frontend)
-- JSON dataset and CSV dataset (Available in private healthcare repo
+- JSON dataset and CSV dataset (Available in private healthcare repo)
 
 ## System Requirements
 
@@ -100,5 +100,16 @@ with st.sidebar:
 	)
 ```
 
-## How 
+## How to execute the project
+  - Download the project from github.
+  - Install Required Python Libraries
+      ```bash
+      pip install -r requirements.txt
+      ```
+  - Run the Streamlit App
+    ```bash
+    streamlit run app.py
+    ```
+
 ## Credits
+Developed by *Pandey Abhishek Nath Roy*
