@@ -26,7 +26,7 @@ This Health Recommender System is built using filtering techniques and nearest n
   - Plotly for visualization
  
 ## Video Demonstration
-
+[![Introduction Video](https://img.youtube.com/vi/your-video-id/0.jpg)](https://youtu.be/G0l0-1vjxHA?feature=shared)
 
 ## Code Snippets
 
